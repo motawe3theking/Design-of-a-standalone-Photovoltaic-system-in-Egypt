@@ -1,7 +1,7 @@
 # Design of a standalone PV system based in Cairo
 ![PVSYSTEM](https://github.com/user-attachments/assets/323cde58-6b64-4750-814b-9e57bea028e4)
 
-This repository showcases a comprehensive project on the design, simulation, and economic analysis of a stand-alone photovoltaic (PV) system. The project includes:
+This repository showcases a comprehensive project on the design, simulation, and economic analysis of a stand-alone photovoltaic (PV) system that could serve a GUC dorm located in new cairo based on the average power consumption of 3 students. The project includes:
 
 - **Project Report:** Detailed documentation of the system design, simulation results, and cost analysis.
 - **Presentation:** Slides summarizing the project objectives, methodology, and key findings.
