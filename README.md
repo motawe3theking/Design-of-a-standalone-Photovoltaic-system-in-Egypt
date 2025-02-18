@@ -1,4 +1,4 @@
-# Design of a standalone PV system in Cairo
+# Design of a standalone PV system based in Cairo
 ![PVSYSTEM](https://github.com/user-attachments/assets/323cde58-6b64-4750-814b-9e57bea028e4)
 
 This repository showcases a comprehensive project on the design, simulation, and economic analysis of a stand-alone photovoltaic (PV) system. The project includes:
