@@ -1,11 +1,13 @@
-# Renewable Energy System Modeling and Control
+# Design of a standalone PV system in Cairo
+![PVSYSTEM](https://github.com/user-attachments/assets/323cde58-6b64-4750-814b-9e57bea028e4)
 
 This repository showcases a comprehensive project on the design, simulation, and economic analysis of a stand-alone photovoltaic (PV) system. The project includes:
 
 - **Project Report:** Detailed documentation of the system design, simulation results, and cost analysis.
 - **Presentation:** Slides summarizing the project objectives, methodology, and key findings.
 - **Simulation Report:** In-depth analysis of simulation data, performance metrics, and system validation.
-
+  
+***All the details and design decisions are found in the project report.***
 ## Project Overview
 
 The project focuses on:
@@ -20,11 +22,5 @@ The project focuses on:
 - **simulation_report.pdf:** A report covering the simulation methodologies, results, and interpretations.
 - **PVSYSTEM.png:** System diagram
 - **renewable energy project_Project.zip:** PVsyst project folder
-
-## How to Explore
-
-1. **Download/Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Renewable-Energy-System-Modeling-and-Control.git
 
 For questions, feedback, or further discussion, please contact Mohamed Motawea @ mohamed.ahmed.motawea20@gmail.com
